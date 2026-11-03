@@ -10,12 +10,12 @@ The platform provides transparency throughout the donation journey, allowing don
 
 ## 👥 Team Members
 
-- Esraa Mohamed Ali
-- Amira Mohamed Hosny
-- Zainab Ibrahim Alam El-Din
-- Mariam Sobhy Mohamed
-- Basmala Ali
-- Ali Saad
+- Esraa Mohamed Ali (UI & UX)
+- Amira Mohamed Hosny (UI & UX)
+- Zainab Ibrahim Alam El-Din (UI & UX)
+- Mariam Sobhy Mohamed (UI & UX)
+- Basmala Ali (UI & UX)
+- Ali Saad (UI & UX)
 
 **Instructor:** Mohamed Abo Qamar
 
